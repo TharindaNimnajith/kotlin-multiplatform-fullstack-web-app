@@ -32,7 +32,6 @@ kotlin {
     }
     sourceSets {
         commonMain {
-
         }
         commonTest {
             dependencies {
@@ -47,7 +46,6 @@ kotlin {
             }
         }
         jvmTest {
-
         }
         jsMain {
             dependencies {
@@ -57,7 +55,6 @@ kotlin {
             }
         }
         jsTest {
-
         }
     }
 }
